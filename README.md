@@ -5,11 +5,11 @@ This plugin was forked from
 
 ## Description
 
-This is a quick and dirty Vim plugin to use some GitLab features locally from vim.
+This is a quick and dirty Vim plugin to use some GitLab features locally from Vim.
 
 It enables you to:
 
-- Open a link to the corresponding GitLab file of a local vim selection
+- Open a link to the corresponding GitLab file of a local Vim selection
 - Add a comment to the corresponding GitLab commit of a locally selected line
 
 ## Installation
